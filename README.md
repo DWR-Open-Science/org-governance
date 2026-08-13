@@ -12,7 +12,7 @@ Openness must be applied responsibly. Not every project, dataset, or product sho
 
 ## What belongs in DWR-Open-Science
 
-During the initial phase of SP1.2.2, this organization will host resources that staff develop, such as:
+During the initial phase of SP 1.2.2, this organization will host resources that staff develop, such as:
 
 - Governance, standards, and guidance for open-source scientific work at DWR
 - Reusable repository templates and project scaffolding
@@ -37,8 +37,12 @@ Open-source practice is also a people practice. Contributors and maintainers sho
 
 This repository will contain the organization’s governance materials as they are developed, including guidance on membership and permissions, repository lifecycle and ownership, contribution and review practices, decision making, and support pathways.
 
-Materials developed under SP1.2.2 will be beta tested and refined with DWR users. GitHub is the primary development and hosting environment for these resources; feedback and review may also be gathered through accessible DWR communication channels and software so that participation does not require GitHub experience.
+### Charter
+
+The [DWR Open Science GitHub Organization Charter](docs/charter.md) sets out the organization’s purpose, guiding principles, scope, roles, repository expectations, and process for updating its governance. It is a living draft that will be refined as decisions are made and the organization grows.
+
+Materials developed under SP 1.2.2 will be beta tested and refined with DWR users. GitHub is the primary development and hosting environment for these resources; feedback and review may also be gathered through accessible DWR communication channels and software so that participation does not require GitHub experience.
 
 ## Status
 
-The DWR-Open-Science organization and its resources are being established as part of the 2026 SP1.2.2 work. This README is an orientation document and will evolve as governance decisions and supporting materials are adopted.
+The DWR-Open-Science organization and its resources are being established as part of the 2026 SP 1.2.2 work. This README is an orientation document and will evolve as governance decisions and supporting materials are adopted.
