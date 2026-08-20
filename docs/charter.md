@@ -59,7 +59,9 @@ This organization is not the default destination for every DWR repository. Repos
 
 ## 4. Membership
 
-Membership and permission pathways are being developed as part of the organization's governance. They will define appropriate access, contribution, and maintenance roles for DWR staff and, where appropriate, collaborators.
+The organization’s current technical access model is documented in [Access and Permissions](access-and-permissions.md). It uses teams as the default way to grant repository access, while organization owners retain control over high-risk administrative actions.
+
+Membership and collaborator pathways are still being developed as part of the organization's governance. The organization does not yet have a designated point of contact, request process, or joining criteria for new members or outside collaborators.
 
 A code of conduct and reporting pathway will be established before external contribution pathways are opened.
 
@@ -67,7 +69,7 @@ Participation in the development and review of these resources is not limited to
 
 ### Joining
 
-Joining criteria and procedures are [to be decided](https://github.com/DWR-Open-Science/org-governance/issues/4) as part of the governance structure.
+Joining criteria, a request process, and a durable point of contact are [to be decided](https://github.com/DWR-Open-Science/org-governance/issues/4) as part of the governance structure. Until then, the organization has no formal pathway for adding members or collaborators.
 
 ### Leaving
 
@@ -77,12 +79,12 @@ Departure, transition, and handoff procedures will be defined with the organizat
 
 | Role | Who | Responsibilities |
 |---|---|---|
-| **Organization Owners** | [To be decided](https://github.com/DWR-Open-Science/org-governance/issues/2) | Administer the organization; create and archive repositories; manage membership and permissions; steward this charter |
+| **Organization Owners** | [To be decided](https://github.com/DWR-Open-Science/org-governance/issues/2) | Administer organization-wide membership, policy, and settings; control repository visibility changes, deletion, and transfer; steward this charter |
 | **Maintainers** | To be named per repository | Maintain resources; review and merge changes; keep documentation current; and support orderly handoff and continuity |
 | **Members** | To be defined | Contribute to resources, review changes, and uphold this charter's principles |
 | **Contributors** | To be defined | Contribute through the pathways established for each resource |
 
-This is a proposed role model. The organization will define the final structure for ownership, maintenance, support, and permissions as part of its governance work.
+This is a proposed role model. See [Access and Permissions](access-and-permissions.md) for the current GitHub implementation and access conventions. The organization will define the final structure for ownership, maintenance, support, and permissions as part of its governance work.
 
 ## 6. Repository Expectations
 

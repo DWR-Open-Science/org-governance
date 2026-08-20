@@ -41,7 +41,9 @@ This repository will contain the organization’s governance materials as they a
 
 The [DWR Open Science GitHub Organization Charter](docs/charter.md) sets out the organization’s purpose, guiding principles, scope, roles, repository expectations, and process for updating its governance. It is a living draft that will be refined as decisions are made and the organization grows.
 
-The [roster](docs/roster.md) lists the current participants developing open-source resources.
+[Access and Permissions](docs/access-and-permissions.md) documents the current GitHub access model, team conventions, repository access checklist, and the actions reserved for organization owners. It does not establish a pathway for adding members or collaborators; that process is still to be decided.
+
+The [SP 1.2.2 Workstream 2 roster](docs/roster.md) lists the current participants developing open-source resources.
 
 Materials developed under SP 1.2.2 will be beta tested and refined with DWR users. GitHub is the primary development and hosting environment for these resources; feedback and review may also be gathered through accessible DWR communication channels and software so that participation does not require GitHub experience.
 
