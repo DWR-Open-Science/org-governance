@@ -3,7 +3,7 @@
 | Name | Division | GitHub | Notes |
 |---|---|---|---|
 | Lucy Andrews | DMI | [@lucy-dwr](https://github.com/lucy-dwr) | Workstream lead |
-| Kyle Hardage | SGMO | @khardage | Workstream co-lead |
+| Kyle Hardage | SGMO | [@khardage](https://github.com/khardage) | Workstream co-lead |
 | Lily Tomkovic | MSO | [@lily-tomkovic-DWR](https://github.com/lily-tomkovic-DWR) |  |
 | Kevin He | MSO | [@minxuehe](https://github.com/minxuehe) |  |
 | Wyatt Arnold | Planning | [@wyattarnold](https://github.com/wyattarnold) |  |
