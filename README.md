@@ -45,6 +45,8 @@ The [DWR Open Science GitHub Organization Charter](docs/charter.md) sets out the
 
 The [SP 1.2.2 Workstream 2 roster](docs/roster.md) lists the current participants developing open-source resources.
 
+[Proposed deliverables for reproducible, open-source scientific work](docs/proposed-deliverables.md) summarizes the planned toolkit, resources, and supporting practices for this SP 1.2.2 work stream.
+
 Materials developed under SP 1.2.2 will be beta tested and refined with DWR users. GitHub is the primary development and hosting environment for these resources; feedback and review may also be gathered through accessible DWR communication channels and software so that participation does not require GitHub experience.
 
 ## Status
