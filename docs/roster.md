@@ -8,6 +8,7 @@
 | Wyatt Arnold | Planning | [@wyattarnold](https://github.com/wyattarnold) |  |
 | Dave Bosworth | DISE | [@mountaindboz](https://github.com/mountaindboz) |  |
 | Mahesh Gautam | Planning | [@mahesh4colab](https://github.com/mahesh4colab) |  |
+| Darren Bonfantine | DFO | | |
 | Alex Lopez | Planning | [@alejpz](https://github.com/alejpz) |  |
 | Sarah Perry | DISE | [@seperry83](https://github.com/seperry83) |  |
 | Fernando Romero-Galvan | Executive | [@ferg-dwr](https://github.com/ferg-dwr) |  |
